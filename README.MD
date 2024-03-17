@@ -1,3 +1,3 @@
-<Kacper><Wawrzyńczak>
-<nr 13>
-<s31304>
+Kacper Wawrzyńczak  
+nr 13
+s31304
